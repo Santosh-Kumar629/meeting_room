@@ -1,0 +1,87 @@
+.header{
+    border: 2px solid grey;
+    margin: 10px 200px;
+
+   
+}
+.form{
+    text-align: center;
+}
+.heading{
+    text-indent: 00px;
+    margin: 35px 20px;
+    
+}
+.Ram{
+    border: 2px solid grey;
+    margin: 30px 200px;
+   
+}
+.selectvalue{
+    margin: 6px;
+    padding: 2px 95px;
+    width: 20px 100px;
+}
+input {
+    width: 300px;
+    margin: 20px 100px;
+   
+}
+.z {
+   background-color:yellow;
+   color:black;
+}
+
+ul.log{
+   
+    background-color:darkred;
+    
+}
+ul.a{
+    
+    border: 1px solid black;
+    padding: 2px 4px ;
+    margin: 20px 700px;
+    background-color: orange;
+}
+ul.b{
+    border: 1px solid black;
+    padding: 2px 4px ;
+    margin: 20px 700px;
+    background-color: salmon;
+
+}
+ul.c{
+    border: 1px solid black;
+    padding: 2px 4px ;
+    margin: 20px 700px;
+    background-color: salmon;
+}
+ul.d{
+    border: 1px solid black;
+    padding: 2px 4px ;
+    margin: 20px 700px;
+    background-color: salmon;
+}
+ul.e{
+    border: 1px solid black;
+    padding: 2px 4px ;
+    margin: 20px 700px;
+    background-color: salmon;
+}
+ul.f{
+    border: 1px solid black;
+    padding: 2px 4px ;
+    margin: 20px 700px;
+    background-color: salmon;
+}
+ul.g{
+    border: 1px solid black;
+    padding: 2px 4px ;
+    margin: 20px 700px;
+    background-color: salmon;
+}
+.button{
+    background-color: darkred;
+    color: white;
+}
